@@ -3,7 +3,7 @@ name = "yuneta"
 version = "0.1.0"
 edition = "2018"
 license = "MIT"
-description = "Yuneta in Rust"
+description = "Yuneta in Rust. Migration of https://github.com/yuneta proyect to Rust. Work in progress."
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]

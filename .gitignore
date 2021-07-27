@@ -1,1 +1,9 @@
 /target
+
+.hgignore
+.hgtags
+/.hg/
+
+*.kdev4
+core.*
+
