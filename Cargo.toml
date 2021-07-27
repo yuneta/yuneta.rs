@@ -1,6 +1,6 @@
 [package]
 name = "yuneta"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 license = "MIT"
 description = "Yuneta in Rust. Migration of https://github.com/yuneta proyect to Rust. Work in progress."
